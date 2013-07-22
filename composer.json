@@ -1,0 +1,6 @@
+{
+	"require": {
+		"ircmaxell/password-compat": "dev-master",
+		"ezyang/htmlpurifier": "dev-master"
+	}
+}
