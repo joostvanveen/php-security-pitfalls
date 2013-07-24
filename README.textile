@@ -1,0 +1,8 @@
+h1. PHP Security Pitfalls souce code
+
+This code is part of the Tutsplus course PHP Security Pitfalls. 
+It is meant for demonstration purposes only. As such, it contains incomplete code.
+
+*Do not use this code in a production environment!*
+
+Cheers, Joost van Veen
