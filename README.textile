@@ -1,7 +1,7 @@
 h1. PHP Security Pitfalls souce code
 
-This code is part of the Tutsplus course PHP Security Pitfalls. 
-It is meant for demonstration purposes only. As such, it contains incomplete code.
+This repository contains the source code for the Tutsplus course PHP Security Pitfalls. 
+It is meant for demonstration purposes and reference only. As such, it contains incomplete and vulnerable code.
 
 *Do not use this code in a production environment!*
 
